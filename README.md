@@ -2,9 +2,9 @@
 
 ## Overview
 
-Android Tachometer App is a mobile application designed to monitor a user's real-time speed using GPS data. The app provides speed tracking, customizable speed limits, speed violation logging, map visualization, and voice recognition for easier navigation.
+Android Tachometer App is a mobile application designed to monitor a user's real-time speed using GPS data. The app provides speed tracking, customizable speed limits, speed violation logging, map visualization and voice recognition for easier navigation.
 
-This project was developed as an academic assignment focusing on Android development, GPS services, SQLite database integration, SharedPreferences, Google Maps integration, and speech technologies.
+This project was developed as an academic assignment focusing on Android development, GPS services, SQLite database integration, SharedPreferences, Google Maps integration and speech technologies.
 
 ---
 
@@ -72,7 +72,7 @@ This project was developed as an academic assignment focusing on Android develop
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/android-tachometer-app.git
+git clone https://github.com/stefanossal/tachometer-android.git
 ```
 
 2. Open the project in Android Studio.
@@ -84,5 +84,11 @@ git clone https://github.com/yourusername/android-tachometer-app.git
 ---
 
 ## Screenshots
+
+<p align="left"> 
+  <img width="233" height="416" alt="tachometer-screenshot-1" src="https://github.com/user-attachments/assets/93ac59e8-c253-42fd-9a01-ddb37d5b56bf" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/a452a2c8-8d03-4fc8-bdb8-3f7e7626cb60" width="30%" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/140522c4-d9c4-494f-b81d-c63a51f347fa" width="30%" />
+</p>
 
 
