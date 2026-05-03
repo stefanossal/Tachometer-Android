@@ -87,7 +87,7 @@ git clone https://github.com/stefanossal/tachometer-android.git
 
 <p align="left"> 
   <img width="233" height="416" alt="tachometer-screenshot-1" src="https://github.com/user-attachments/assets/93ac59e8-c253-42fd-9a01-ddb37d5b56bf" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/a452a2c8-8d03-4fc8-bdb8-3f7e7626cb60" width="30%" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="225" height="400" alt="tachometer-screenshot-2" src="https://github.com/user-attachments/assets/462a820e-71bb-4294-92ac-1f1a91768be0" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/140522c4-d9c4-494f-b81d-c63a51f347fa" width="30%" />
 </p>
 
